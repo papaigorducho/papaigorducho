@@ -70,14 +70,6 @@ Aprofundar meus conhecimentos em DevOps e SRE, contribuindo com projetos moderno
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌎 Conecte-se comigo
 
 * LinkedIn: https://linkedin.com/in/soudanilosantos
