@@ -1,16 +1,89 @@
-## Hi there 👋
+# 👋 Olá, eu sou Danilo Santos
 
-<!--
-**papaigorducho/papaigorducho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Profissional de Infraestrutura de TI | Cloud | DevOps & SRE Enthusiast
+📍 São Paulo, Brasil
+🏢 Atualmente atuando na Locaweb
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Profissional de Infraestrutura de TI com mais de 17 anos de experiência em ambientes corporativos, atuando com administração de servidores, virtualização, cloud computing e sustentação de ambientes críticos.
+
+Atualmente, venho expandindo meus conhecimentos em cultura DevOps e práticas SRE (Site Reliability Engineering), estudando ferramentas de automação, observabilidade, integração contínua e infraestrutura moderna.
+
+Tenho interesse constante em evolução tecnológica, boas práticas operacionais e construção de ambientes mais resilientes, escaláveis e eficientes.
+
+---
+
+## 🛠️ Principais competências
+
+### ☁️ Cloud & Plataformas
+
+* Microsoft Azure
+* Oracle Cloud Infrastructure (OCI)
+* AWS
+* Google Workspace
+
+### 🖥️ Infraestrutura & Sistemas
+
+* Windows Server
+* Active Directory
+* IIS
+* Hyper-V
+* VMware
+* Virtualização de ambientes
+
+### ⚙️ DevOps & SRE (em aprendizado)
+
+* Conceitos DevOps
+* CI/CD
+* Observabilidade
+* Monitoramento de ambientes
+* Automação de processos
+* Cultura SRE
+* Infraestrutura como Código (IaC)
+
+### 🔐 Segurança & Governança
+
+* Hardening de servidores
+* Segurança de ambientes Windows
+* Gestão de acessos
+* Boas práticas de infraestrutura
+
+---
+
+## 📚 Certificações
+
+* Microsoft Certified: Azure Fundamentals
+* Oracle Cloud Infrastructure Foundations Associate
+* Microsoft Certified Professional (MCP)
+* DevOps Essentials Professional Certificate
+* Scrum Foundation Professional Certificate
+* VMware Certified Associate
+
+---
+
+## 🎯 Objetivos
+
+Aprofundar meus conhecimentos em DevOps e SRE, contribuindo com projetos modernos de infraestrutura e cloud computing, focados em automação, confiabilidade, escalabilidade e melhoria contínua.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌎 Conecte-se comigo
+
+* LinkedIn: https://linkedin.com/in/soudanilosantos
+* Blog: http://blog.danilosantos.com.br
+* GitHub: https://github.com/SEUUSUARIO
+
+---
+
+⭐ Sempre aprendendo, evoluindo e explorando novas tecnologias em infraestrutura, cloud e DevOps.
