@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Danilo Santos
 
-☁️ Profissional de Infraestrutura de TI | Cloud | DevOps & SRE Enthusiast
-📍 São Paulo, Brasil
-🏢 Atualmente atuando na Locaweb
+* ☁️ Profissional de Infraestrutura de TI | Cloud | DevOps & SRE Enthusiast
+* 📍 São Paulo, Brasil
+* 🏢 Atualmente atuando na Locaweb
 
 ---
 
