@@ -74,7 +74,7 @@ Aprofundar meus conhecimentos em DevOps e SRE, contribuindo com projetos moderno
 
 * LinkedIn: https://linkedin.com/in/soudanilosantos
 * Blog: http://blog.danilosantos.com.br
-* GitHub: https://github.com/SEUUSUARIO
+* X: https://x.com/soudanilosantos
 
 ---
 
