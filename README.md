@@ -73,7 +73,6 @@ Aprofundar meus conhecimentos em DevOps e SRE, contribuindo com projetos moderno
 ## 🌎 Conecte-se comigo
 
 * LinkedIn: https://linkedin.com/in/soudanilosantos
-* Blog: http://blog.danilosantos.com.br
 * X: https://x.com/soudanilosantos
 
 ---
